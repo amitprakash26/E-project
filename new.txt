@@ -1,0 +1,28 @@
+🔹 Beginner to Intermediate Level
+#	Question
+1	Write a C# program to find the second largest element in an integer array.
+2	Write a function to reverse an array without using any inbuilt methods.
+3	Implement a method to remove duplicates from an array without using List<>.
+4	Given an array, check if it is a palindrome (reads the same forward and backward).
+5	Write a C# program to rotate the array to the left by k steps.
+6	Write a method that returns maximum sum of a subarray (Kadane’s algorithm).
+7	Given an array of numbers, find all pairs with a given sum (e.g., sum = 10).
+
+🔹 Advanced / Tricky Logic
+#	Question
+8	Given an integer array, find the first missing positive integer (e.g., for [3, 4, -1, 1] → 2).
+9	Without sorting, check whether an array contains consecutive elements (unique).
+10	Implement a program to find the majority element (element that appears more than n/2 times).
+11	You are given an array of n-1 integers from 1 to n, find the missing number.
+12	Implement a C# function to find the equilibrium index (sum of left == sum of right).
+13	Given a binary array (0s and 1s), find the maximum number of consecutive 1s.
+14	You are given an array of positive numbers. Find the minimum number of swaps required to bring all elements less than or equal to k together.
+15	Given an array, return true if the array contains a duplicate within k indices.
+
+🔹 Bonus: Puzzle-like Logical Problems
+#	Question
+16	You have an array of size n, where all numbers appear even number of times, except one number which appears odd times. Find that number.
+17	In an array of integers, find all triplets such that a + b + c = 0.
+18	Write a program to flatten a 2D array to a 1D array.
+19	Rotate a square matrix (2D array) by 90 degrees in-place.
+20	Implement a C# method to check whether a given array can be partitioned into two subsets with equal sum.
